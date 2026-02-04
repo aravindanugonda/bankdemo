@@ -22,6 +22,7 @@
 /scripts/
 /tutorial/
 /demos/
+/system/
 /projects/**/generated
 /projects/**/loadlib
 /projects/**/obj
