@@ -225,6 +225,9 @@
 
            PERFORM RUN-TIME.
 
+           DISPLAY 'ZBNKPRT1' UPON CONSOLE
+           .
+
            MOVE ZEROES TO WS-EXEC-PARM-LL.
            MOVE SPACES TO WS-EXEC-PARM-DATA.
 
